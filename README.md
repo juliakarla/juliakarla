@@ -1,6 +1,6 @@
-Olá eu sou a Júlia Karla,
-Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistemas de Informação, estudante de inglês atuando no time de N2 utilizando o GLPI como ferramenta para gerenciamento dos chamados. Considero o Manifesto Ágil como cultura e filosofia; vivencio a melhoria contínua buscando sempre por inovação; entusiasta de agile e evangelista de Cloud em transição de carreira para DevOps.
-Acompanhei o período de virtualização do órgão público além do crescimento do parque tecnológico implementando novas tecnologias e updates de hardwares. 
+Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistemas de Informação, atuando no time de Monitoramento. Considero o Manifesto Ágil como cultura e filosofia; vivencio a melhoria contínua; evangelista de cloud em transição de carreira para DevOps. 
+
+#cloud #devops
 
 <div>
     <a href="https://github.com/juliakarla">
