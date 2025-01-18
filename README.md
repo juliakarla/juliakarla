@@ -1,4 +1,4 @@
-Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistemas de Informação, atuando no time de Monitoramento. Considero o Manifesto Ágil como cultura e filosofia; vivencio a melhoria contínua; evangelista de cloud em transição de carreira para DevOps. 
+Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistemas de Informação, atuando no time de Monitoramento. Considero o Manifesto Ágil como cultura e filosofia; vivencio a melhoria contínua; evangelista de cloud em transição de carreira para QA. 
 
 #cloud #devops
 
