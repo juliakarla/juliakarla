@@ -1,6 +1,7 @@
-Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistemas de Informação, atuando no time de Monitoramento. Considero o Manifesto Ágil como cultura e filosofia; vivencio a melhoria contínua; evangelista de cloud em transição de carreira para QA. 
+Profissional de TI com 19 anos de experiência em suporte técnico, gestão de chamados e monitoramento de sistemas. Atuei como Consultora de Soluções Customizadas na Capgemini, onde liderei equipes, gerenciei chamados no GLPI e prestei suporte N1/N2 à Justiça Estadual de Alagoas. Minha experiência inclui o uso de ferramentas como Zabbix e Grafana para monitoramento, Zoom, Polycom, Google Workspace.
+Atualmente trabalho como Analista de Monitoramento na G4F. Paralelamente à minha carreira, participo de um projeto voluntário de Simulação de Projetos Ágeis, onde aplico metodologias Scrum no desenvolvimento de um produto digital, proporcionando uma experiência prática. Busco novos desafios e estou em processo de trasição de carreira para a área de Qualidade de Software (QA). Além disso, estou me preparando para a certificação AWS Certified Cloud Practitioner e investindo em minha qualificação profissional. Sou formada em Sistemas de Informação e possuo especialização em Gestão Ágil de Projetos. Minhas human skills incluem flexibilidade, colaboração, proatividade e foco em resolução de problemas. 
 
-#cloud #devops
+#cloud #qa
 
 <div>
     <a href="https://github.com/juliakarla">
@@ -19,7 +20,7 @@ Especialista em Gestão Ágil de Projetos pelo CESAR School, graduada em Sistema
 ##  
           
 <div>
-   <a href="https://instagram.com/jk_juliakarla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/juliakarla_jk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:juliakarla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/juliakarla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
