@@ -8,9 +8,3 @@ Atualmente trabalho como Analista de Monitoramento na G4F. Além disso, estou me
 </div>
     
 ##
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Júlia-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  </div>    
-    
-##
